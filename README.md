@@ -1,4 +1,7 @@
 #  Textables
+
+The react native tutorial from Ignite [Youtube](https://www.youtube.com/watch?v=lv00UOXxy0g&t=1s)
+
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
